@@ -1,0 +1,48 @@
+{
+    "project_info": {
+        "project_number": "648386102054",
+        "firebase_url": "https://sdn-auth-project-default-rtdb.firebaseio.com",
+        "project_id": "sdn-auth-project",
+        "storage_bucket": "sdn-auth-project.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:648386102054:android:7829ea8d0f46b88953b7e7",
+                "android_client_info": {
+                    "package_name": "com.example.sdn_auth_project"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "648386102054-bi8fq0vem3inicjmifk9icjlkqlkr1km.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.example.sdn_auth_project",
+                        "certificate_hash": "ed1dba1df4cd15da6ad63c7b9fd24eb7d0000cd7"
+                    }
+                },
+                {
+                    "client_id": "648386102054-hpblpnr06upa93p18g98qpg2gamjstm7.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC3H3q9mAdKmqT4f_Z4cfUacuky9wYZtck"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "648386102054-hpblpnr06upa93p18g98qpg2gamjstm7.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

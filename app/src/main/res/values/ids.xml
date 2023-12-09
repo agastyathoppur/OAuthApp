@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="password2" type="id" />
+    <item name="Phone" type="id" />
+    <item name="Password" type="id" />
+    <item name="Email" type="id" />
+    <item name="Gender" type="id" />
+    <item name="DOB" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView2" type="id" />
+    <item name="Register" type="id" />
+    <item name="FullName" type="id" />
+    <item name="SignedIn" type="id" />
+</resources>
